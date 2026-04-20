@@ -30,3 +30,5 @@ If you want to invoke the contract via terminal:
 2. **Add Task**:
    ```bash
    stellar contract invoke --id CCDXMBRPAVJEKN7A7WQRUQXIGJX2KX72ISSEVVCETZPCDCFDVQ7OJ4HC --source-account <YOUR_ACCOUNT> --network testnet -- add_task --id 1 --client_name "Acme Corp" --task_desc "UI Design" --fee 500
+
+![Screenshot Terminal Aplikasi HustleTracker](HustleTracker.png)
